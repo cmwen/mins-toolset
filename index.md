@@ -89,3 +89,10 @@ class: impact
 - It has extensions for all major browsers.
 - Mobile app allows you to read articles offline. Even videos.
 - Easy to read, no ads.
+
+---
+
+# Notes
+
+- [Dynalist](https://dynalist.io/)
+- 

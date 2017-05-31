@@ -1,10 +1,9 @@
 {
-  "name": "toolset",
+  "name": "mins-toolset",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "directories": {
-    "doc": "docs"
+    "docs": "docs"
   },
   "scripts": {
     "build": "bs export -o docs/",
@@ -12,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cmwen/toolset.git"
+    "url": "git+https://github.com/cmwen/mins-toolset.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cmwen/toolset/issues"
+    "url": "https://github.com/cmwen/mins-toolset/issues"
   },
-  "homepage": "https://github.com/cmwen/toolset#readme",
+  "homepage": "https://github.com/cmwen/mins-toolset#readme",
   "dependencies": {
     "backslide": "^1.2.0"
   }
